@@ -11,7 +11,8 @@ The Student Admission Management System is a console-based application developed
 * License
   
 # Features
-Add New Student: Collects information about the student, including personal details, academic percentages, parent details, SRMJEEE rank, course preferences, and more.
+### Add New Student: 
+Collects information about the student, including personal details, academic percentages, parent details, SRMJEEE rank, course preferences, and more.
 
 ### Verify Student Details: 
 Allows administrators to verify and add comments to student details.
