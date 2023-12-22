@@ -1,6 +1,6 @@
 # Student-Admission-Management-System
 
-The Student Admission Management System is a console-based application developed in C++. This system is designed to manage student admission details for SRM University-AP, Andhra Pradesh. It provides functionalities such as adding new students, verifying student details, managing fee information, and more.
+The Student Admission Management System is a console-based application developed in C++. This system is designed to manage student admission details. It provides functionalities such as adding new students, verifying student details, managing fee information, and more.
 
 # Table of Contents
 * Features
